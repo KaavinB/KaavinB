@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KaavinB](https://github.com/KaavinB?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/KaavinB?tab=repositories)
 
 - 📫 How to reach me **kaavinbala2003@gmail.com**
 
