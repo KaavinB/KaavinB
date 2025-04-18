@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg)](https://github.com/KaavinB)
+  [![MasterHead](./header_image.png)](https://github.com/KaavinB)
 
   # Hi there, I'm Kaavin 👋
 
