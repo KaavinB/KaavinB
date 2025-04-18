@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="https://i.pinimg.com/originals/6c/12/b1/6c12b17b704562734d8b4c3ebae07672.gif" width="100%" alt="Deep Learning">
+      <img src="https://media1.tenor.com/m/xs0v0BhQalAAAAAd/ironman-making-suit.gif" width="100%" alt="Deep Learning">
     </td>
     <td width="60%">
       <h2>🔍 Current Focus</h2>
