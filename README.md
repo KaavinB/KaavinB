@@ -70,14 +70,6 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaavinb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=kaavinb&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 💡 Let's Connect!
 
 I'm always open to collaborating on projects, discussing new ideas, or just chatting about the latest in AI and machine learning. Feel free to reach out!
