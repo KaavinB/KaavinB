@@ -22,12 +22,12 @@
         <li>🔭 <b>Currently Working On:</b> Multiple deep learning projects in computer vision and NLP</li>
         <li>🌱 <b>Learning:</b> Advanced PyTorch techniques and model optimization</li>
         <li>👨‍💻 <b>Projects:</b> Explore my <a href="https://github.com/KaavinB?tab=repositories">repositories</a></li>
-        <li>🌐 <b>Portfolio:</b> Check out my work <a href="https://kaavinb.github.io/">here</a></li>
+        <li>🌐 <b>Portfolio:</b> Check out my work <a href="https://kaavin.info">here</a></li>
         <li>📫 <b>Contact:</b> <a href="mailto:kaavinbala2003@gmail.com">kaavinbala2003@gmail.com</a></li>
       </ul>
     </td>
     <td width="40%">
-      <img src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" width="100%" alt="AI Animation">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhjNnhxcTB1dXpsNGxibHJiNmF2NnBzZ3JucXVyNDYxMmVtc3prbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="AI Animation">
     </td>
   </tr>
 </table>
