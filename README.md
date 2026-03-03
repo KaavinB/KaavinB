@@ -1,6 +1,4 @@
 <div align="center">
-  
-  [![MasterHead](./header_image.png)](https://github.com/KaavinB)
 
   # Hi there, I'm Kaavin 👋
 
