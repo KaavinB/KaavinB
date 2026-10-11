@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://linkedin.com/in/kaavin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:kaavinbala2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:kaavinb7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://kaavin.info/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
   </p>
 </div>
@@ -21,7 +21,7 @@
         <li>🌱 <b>Learning:</b> Advanced PyTorch techniques and model optimization</li>
         <li>👨‍💻 <b>Projects:</b> Explore my <a href="https://github.com/KaavinB?tab=repositories">repositories</a></li>
         <li>🌐 <b>Portfolio:</b> Check out my work <a href="https://kaavin.info">here</a></li>
-        <li>📫 <b>Contact:</b> <a href="mailto:kaavinbala2003@gmail.com">kaavinbala2003@gmail.com</a></li>
+        <li>📫 <b>Contact:</b> <a href="mailto:kaavinb7@gmail.com">kaavinbala2003@gmail.com</a></li>
       </ul>
     </td>
     <td width="40%">
